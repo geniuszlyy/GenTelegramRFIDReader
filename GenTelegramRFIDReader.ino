@@ -9,7 +9,7 @@
 // Конфигурация сети Wi-Fi и Telegram-бота
 const char* wifi_ssid = "1234";        
 const char* wifi_password = "6707870a"; 
-const char* TELEGRAM_BOT_TOKEN = "5090627189:AAHNT12DNyODCQjbFFhEDydoEi1Iarmd2oU"; 
+const char* TELEGRAM_BOT_TOKEN = "token_your_bot"; 
 
 // Аппаратные пины RFID-модуля
 #define RFID_RST_PIN 5   
